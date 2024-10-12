@@ -50,7 +50,7 @@ Navigate to the project directory:
 Ensure you have the required images of known participants in the fotoPeserta/ folder.
 Open the Jupyter Notebook:
 
-`jupyter notebook Face_detection.ipynb`
+`jupyter notebook Face_recognition.ipynb`
 
 Run the cells in the notebook. Allow the application to access your webcam when prompted. Capture a photo, and the application will recognize any known faces.
 
